@@ -1,0 +1,200 @@
+[
+	{
+		"Name":	"#00#c5310_Body",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5310_body.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_0_MetallicMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_1_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_2_AlbedoMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_3_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_4_NormalMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	0
+	},
+	{
+		"Name":	"#01#c5310_WhiteBody",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5310_Whitebody.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_0_MetallicMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_1_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_2_AlbedoMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_3_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_4_NormalMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Withered__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	1
+	}
+]

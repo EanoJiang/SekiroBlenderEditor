@@ -1,0 +1,1935 @@
+[
+	{
+		"Name":	"Material #281",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Field.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	0
+	},
+	{
+		"Name":	"Material #282",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Field02.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	1
+	},
+	{
+		"Name":	"Material #283",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_tree.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	2
+	},
+	{
+		"Name":	"Material #284",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_cherryblossoms.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_1_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_3_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_4_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_0_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Gradient__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	3
+	},
+	{
+		"Name":	"Material #353",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_MeshDecal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_MeshDecal_snp_Texture2D_0_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_MeshDecal_snp_Texture2D_1_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	4
+	},
+	{
+		"Name":	"#10# weapon",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Wepon.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_0_EmissiveMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_2_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_3_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Crystal_Depth__snp_Texture2D_6_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	5
+	},
+	{
+		"Name":	"#10# c5200_Body",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Body_[Newtons]_SSS.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_10_GSBlendMap_AmbientOcculusionMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_9_GSBlendMap_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_0_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_1_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_6_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_2_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_3_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_4_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_7_GSBlendMap_DisplacementMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_5_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_8_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	6
+	},
+	{
+		"Name":	"#10# c5200_Head",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Head_[Newtons]_SSS.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_10_GSBlendMap_AmbientOcculusionMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_9_GSBlendMap_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_0_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_1_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_6_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_2_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_3_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_4_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_7_GSBlendMap_DisplacementMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_5_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_8_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	7
+	},
+	{
+		"Name":	"#10# c5200_Horn",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Horn_[DetailBlend].mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	8
+	},
+	{
+		"Name":	"#10# c5200_Hair",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Hair.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	9
+	},
+	{
+		"Name":	"#10# c5200_Veil",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Veil.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_0_EmissiveMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_2_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_3_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_5_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_8_EmissiveMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	10
+	},
+	{
+		"Name":	"#10# c5200_Veil_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Veil_cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_0_EmissiveMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_2_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_3_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_5_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__Veill_Curtain__snp_Texture2D_8_EmissiveMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	11
+	},
+	{
+		"Name":	"#10# c5200_Body",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Hand_[Newtons]_SSS.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_10_GSBlendMap_AmbientOcculusionMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_9_GSBlendMap_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_0_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_1_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_6_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_2_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_3_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_4_GSBlendMap_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_7_GSBlendMap_DisplacementMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_5_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_Detail3Blend__Mermaid__snp_Texture2D_8_GSBlendMap_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	},
+	{
+		"Name":	"#10# c5200_Fur",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Fur_MeshDecal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_MeshDecal_snp_Texture2D_0_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_MeshDecal_snp_Texture2D_1_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	13
+	},
+	{
+		"Name":	"#10# c5200_Fang",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Fang.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	14
+	},
+	{
+		"Name":	"#15#",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Damage.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	15
+	},
+	{
+		"Name":	"#10# Material #356",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\map\\M[m25_00]_Dragon_Field.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	16
+	},
+	{
+		"Name":	"#10# Material #358",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_ivy.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	17
+	},
+	{
+		"Name":	"#10#_Fang_B",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c5200_Fang_B.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	18
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"Name":	"01 - Default",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\Sample_Blend_test.mtd",
+		"Textures":	[
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_4_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Sample_Blend_ntc_snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	0
+	}
+]

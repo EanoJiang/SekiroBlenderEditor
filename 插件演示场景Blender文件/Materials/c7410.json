@@ -1,0 +1,1851 @@
+[
+	{
+		"Name":	"MI_c7410_acc01_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_acc.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	0
+	},
+	{
+		"Name":	"MI_c7410_acc02_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_kimono.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	1
+	},
+	{
+		"Name":	"MI_c7410_acc03_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_armor.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	2
+	},
+	{
+		"Name":	"MI_c7410_acc03_01",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_headparts.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	3
+	},
+	{
+		"Name":	"MI_c7410_acc03_02",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_headparts2.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	4
+	},
+	{
+		"Name":	"MI_c7410_acc04_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_mantle.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_3_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_1_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	5
+	},
+	{
+		"Name":	"MI_c7410_acc04_01_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_mantle_cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_3_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_1_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AN_Blend_AMSN__Fresnel__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	6
+	},
+	{
+		"Name":	"MI_c7410_acc04_02",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_acc_01.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	7
+	},
+	{
+		"Name":	"MI_c7410_hair_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_hair.mtd",
+		"Textures":	[
+			{
+				"Type":	"Fur_NTC_snp_Texture2D_0_MetallicMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Fur_NTC_snp_Texture2D_1_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Fur_NTC_snp_Texture2D_2_AlbedoMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Fur_NTC_snp_Texture2D_3_NormalMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Fur_NTC_snp_Texture2D_4_NormalMap_1",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	8
+	},
+	{
+		"Name":	"MI_c7410_head_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_head.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_1_Mask1Map_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	4,
+		"Index":	9
+	},
+	{
+		"Name":	"3_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_acc_01_cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	10
+	},
+	{
+		"Name":	"4_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_headparts_cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_7_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_0_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_1_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_11_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_3_MetallicMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_6_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_2_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_5_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_10_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_4_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_8_AlbedoMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_12_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_13_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN__DetailBlend__snp_Texture2D_9_NormalMap",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	11
+	},
+	{
+		"Name":	"#04#MI_c7410_we_00",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_weapon.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	},
+	{
+		"Name":	"#06#MI_c7410_we_01",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_weapon.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	},
+	{
+		"Name":	"#07#MI_c7410_we_02",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7410_weapon.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	}
+]

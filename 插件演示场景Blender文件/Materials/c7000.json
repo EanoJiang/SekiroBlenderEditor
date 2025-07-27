@@ -1,0 +1,814 @@
+[
+	{
+		"Name":	"kimono",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Kimono_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	0
+	},
+	{
+		"Name":	"kesa",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Kesa_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	1
+	},
+	{
+		"Name":	"body",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Head_SSS.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_1_Mask1Map_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_SSS_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	1,
+		"Index":	2
+	},
+	{
+		"Name":	"fur",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Fur_e_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	3
+	},
+	{
+		"Name":	"eye",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Eye.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	4
+	},
+	{
+		"Name":	"komono",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_acc_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	5
+	},
+	{
+		"Name":	"#02#_syamisen",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Syamisen_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	6
+	},
+	{
+		"Name":	"kasa",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Wovenhat_e_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	7
+	},
+	{
+		"Name":	"#00#Short Sword",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Wepon_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_a.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_m.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_n.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	8
+	},
+	{
+		"Name":	"komono_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_acc_Cloth_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	9
+	},
+	{
+		"Name":	"#01#pick",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_Syamisen_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	10
+	},
+	{
+		"Name":	"#03#Short Sword2",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\C[AMSN]_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_a.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_m.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"N:\\NTC\\data\\Model\\chr\\c7000\\tex\\c7000_Katana_n.tif",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	1,
+				"Unk11":	true,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	11
+	},
+	{
+		"Name":	"kimono_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_kimono_Decal_Cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	},
+	{
+		"Name":	"kimono_B_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_kimono_Decal_Cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	0,
+		"Index":	12
+	},
+	{
+		"Name":	"obi_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_kimono_Decal_Cloth.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	14
+	},
+	{
+		"Name":	"#02#syamisen_cloth",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_syamisen_Cloth_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	2,
+		"Index":	15
+	},
+	{
+		"Name":	"Material #256",
+		"MTD":	"N:\\NTC\\data\\Material\\mtd\\character\\c7000_kesa_Cloth_Decal.mtd",
+		"Textures":	[
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_2_AlbedoMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_0_ReflectanceMap_0",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			},
+			{
+				"Type":	"Character_AMSN_snp_Texture2D_7_NormalMap_4",
+				"Path":	"",
+				"Scale":	{
+					"X":	1,
+					"Y":	1
+				},
+				"Unk10":	0,
+				"Unk11":	false,
+				"Unk14":	0,
+				"Unk18":	0,
+				"Unk1C":	0
+			}
+		],
+		"GXIndex":	3,
+		"Index":	16
+	}
+]
